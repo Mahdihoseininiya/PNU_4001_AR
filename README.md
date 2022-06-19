@@ -2,7 +2,7 @@
 # - سید محمد مهدی حسینی نیا
 - [Github](https://github.com/mahdihoseininiya)
 - [PNU_4001_AR](https://github.com/mahdihoseininiya/PNU_4001_AR)
-- [Resume](.pdf)
+- [Resume](MyResume.pdf)
 - [SOP](.PDF)
 - [Js Certificate](JavaScript_certificate.jpg)
 # - ارزیابی
